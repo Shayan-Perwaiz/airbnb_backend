@@ -1,0 +1,6 @@
+[submodule "hotelService"]
+	path = hotelService
+	url = https://github.com/Shayan-Perwaiz/HotelService.git
+[submodule "bookingService"]
+	path = bookingService
+	url = https://github.com/Shayan-Perwaiz/BookingService.git
